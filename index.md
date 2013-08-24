@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: hi，这里是我的博客
 ---
 {% include JB/setup %}
 ## 欢迎来到星光灿烂的博客

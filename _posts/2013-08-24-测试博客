@@ -1,0 +1,9 @@
+---
+layout: post
+category : 杂谈
+tagline: "吼吼"
+tags : [杂谈 ]
+---
+{% include JB/setup %}
+#用github编辑
+####以后可以使用github默认的编辑器进行编辑发布博客了
